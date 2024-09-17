@@ -13,13 +13,13 @@ Projects
 Project 1: Ecommerce Website
 Description: A brief overview of what the project is about.
 Technologies Used: HTML, CSS, JavaScript, React
-Features: Key features of the project.
-GitHub Repository: [Link to repository]
+
+
 Project 2: Chat App
 Description: A brief overview of what the project is about.
 Technologies Used: HTML, CSS, React, API Integration
-Features: Key features of the project.
-GitHub Repository: [Link to repository]
+
+
 Learning Goals
 Advanced React: Continue to deepen my understanding of React, including advanced hooks, context API, and performance optimization.
 TypeScript: Learn TypeScript to add strong typing to my JavaScript code and improve code quality and maintainability.
