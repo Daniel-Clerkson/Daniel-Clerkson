@@ -1,9 +1,7 @@
 
-Hello! 👋 I’m Daniel
+# Hello! 👋 I’m Daniel
 
 I know HTML 5, CSS 3, JavaScript, responsive website development, and API Integration. 💻
-
-Current Project: Chat App🗨️🗨️🗨️
 
 I am always excited to collaborate on new projects and contribute to open-source initiatives. 😁
 
