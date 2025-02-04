@@ -8,7 +8,7 @@
 ### Let’s build something amazing together! 🚀
 
 # 💫 About Me:
-🌱 I’m currently learning React<br><br>💬 Ask me about Front-end Development<br><br>📫 How to reach me danielclerkson68@gmail.com<br><br>⚡ Fun fact I am a gamer
+🌱 I’m currently learning React.js<br><br>💬 Ask me about Front-end Development<br><br>📫 How to reach me danielclerkson68@gmail.com<br><br>⚡ Fun fact I watch Anime
 
 
 ## 🌐 Socials:
